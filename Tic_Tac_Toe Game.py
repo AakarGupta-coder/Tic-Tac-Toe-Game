@@ -3,7 +3,7 @@ import tkinter.messagebox
 
 root = Tk()
 root.geometry("1350x750+0+0")
-root.title("TIC TAC TOE")
+root.title("TIC TAC TOE Game")
 root.configure(background="cadet blue")
 root.resizable(0,0)
 
